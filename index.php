@@ -212,7 +212,7 @@ There will probably be 30,000 drones in the United States by 2020, according to 
 <td>
 <h4><font color="black">Breathtaking video with the sights of Bulgaria from a bird's eye view</font></h4>
 <a>
-<a href="http://vbox7.com/play:e802377e83" target="_blank"><img src="images.jpeg" width="100" height="50">
+<a href="http://vbox7.com/play:e802377e83" target="_blank"><img src="images.jpeg" width="100" height="50"><center></center>
 </a>
 </td>
 <td>
