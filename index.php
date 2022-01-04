@@ -9,7 +9,7 @@
 <center><h4><?php
 $mydate = date("d.m.Y");
 $mytime = date("H:i");
-echo "Hello! Today is $mydate, The timme is currently $mytime";
+echo "Hello! Today is $mydate, The time is currently $mytime";
 ?></h4></center>
 <center><h3><font color="red">
 <?php
