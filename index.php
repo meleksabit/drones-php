@@ -15,7 +15,7 @@ echo "Hello! Today is $mydate, The time is currently $mytime";
 <?php
 $d1=strtotime("September 23");
 $d2=ceil(($d1-time())/60/60/24);
-echo $d2 ." days to my birthday :)";
+echo $d2 ." days left to my birthday :)";
 ?></font></h3></center>
  <?php
 $servername = "localhost";
