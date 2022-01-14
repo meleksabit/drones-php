@@ -1,1 +1,1 @@
-# Drones in Action in ![PHP-logo2 svg](https://user-images.githubusercontent.com/32045473/149430786-1a170fa8-5e8a-46a0-afcc-679d56cfa1bd.png)
+# Drones in Action in ![PHP-logo2](https://user-images.githubusercontent.com/32045473/149431013-c822d748-2ec5-4e94-a9d2-08100356b586.png)
