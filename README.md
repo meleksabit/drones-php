@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/meleksabit/drones-php/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/meleksabit/drones-php/actions/workflows/pages/pages-build-deployment)
+
 # Drones in Action in ![php_PNG50](https://user-images.githubusercontent.com/32045473/149431514-84ee1604-7329-46ec-b16a-0da0a947117c.png) 🕸️🚀🌍
 
 
